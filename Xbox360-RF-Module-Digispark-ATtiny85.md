@@ -4,6 +4,26 @@
 بر اساس پروژه‌های Instructables و کدهای جامعه  
 آماده برای GitHub
 
+
+
+
+<img width="3892" height="2304" alt="image" src="https://github.com/user-attachments/assets/3fe78514-b9be-45e0-83ea-4641fdcd86a5" />
+
+
+
+
+<img width="722" height="337" alt="image" src="https://github.com/user-attachments/assets/b41dca24-5121-4cfa-9b1d-d978ce52845a" />
+
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/b1a704c4-8e48-472f-b430-1bed33cb36e7" />
+
+----
+<img width="1647" height="955" alt="image" src="https://github.com/user-attachments/assets/f6ab5acc-4877-42cc-a3e5-cbc5a417e71d" />
+
+
+
+---
+
+
 ---
 
 ## مقدمه
