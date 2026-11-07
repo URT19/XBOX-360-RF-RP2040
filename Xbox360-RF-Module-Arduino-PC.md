@@ -30,7 +30,9 @@
 آن کابل وصل کرد. از جلو که به ماژول نگاه کنید، پایه‌های زیر را می‌بینید:
 
 از ا الی 4  - 
+
 1 رنگ زرد
+
 <img width="398" height="261" alt="image" src="https://github.com/user-attachments/assets/9c1bb4f4-e33b-49eb-806f-c0eaf49d76b0" />
 
 
@@ -38,6 +40,16 @@
 
 علاوه بر این، سه سیم اضافی نیاز است:
 
+#define sync_pin 2 //power button repurposed for sync button (pin 5 on the module)
+#define data_pin 3 //data line (pin 6 on the module)
+#define clock_pin 4 //clock line (pin 7 on module) 
+
+شماره 5 - همگام سازی
+
+شماره 6- سیگنال داده
+
+
+شماره 7 - سیگنال کلاک
 - **Signal Clock** و **Signal Data** برای ارسال دستورات به چیپ RF
 - سیم سوم زمین (GND) که با فشار دادن سوئیچ وسط (برای همگام‌سازی) بسته می‌شود
 
