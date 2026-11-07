@@ -236,10 +236,8 @@ void loop() {
 - کد پایه: yaywoop، Alexander Martinez، dilandou
 - نسخه Digispark: Instructables (XBOX 360 RF MODULE a USB Con ATTINY85)
 - تحقیقات پروتکل: tkkrlab.nl و جامعه Xbox homebrew
-
+- نقشه PCB بورد https://www.instructables.com/Digispark-DIY-Open-Source-ATtiny85-USB-Arduino-PCB/
 این پروژه برای استفاده شخصی و آموزشی آزاد است.  
 اگر بهبود یا باگی پیدا کردید، خوشحال می‌شوم مشارکت کنید.
 
 ---
-
-**ساخته شده با عشق برای جامعه بازیافت سخت‌افزار** 🎮
